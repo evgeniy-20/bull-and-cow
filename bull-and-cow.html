@@ -12,11 +12,10 @@
     <script>
         var clickHandler = function () {
             var value = $("#guess").val();
-            $("#result").append(value);
-            var guess= 5;
-            if (guess.length  != 4) {
-            } else {
+            if (value.length  != 4) {
                 alert("ошибка");
+            } else {
+                $("#result").append(value);
             }
         };
         $("#guess-button").click(clickHandler);
