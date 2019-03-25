@@ -12,13 +12,16 @@
     <script>
         var clickHandler = function () {
             var value = $("#guess").val();
-            if (value.length  != 4) {
+            if (value.length != 4) {
                 alert("mistake");
             } else {
                 $("#result").append(value);
+                var numberOne = [0,9];
+                Math.floor(Math.random() * 9);
+                alert(numberOne);
             }
-        };
-        $("#guess-button").click(clickHandler);
+        }
+                $("#guess-button").click(clickHandler);
     </script>
 </body>
 </html>
