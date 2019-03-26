@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="785411cc-5f30-4778-b0d1-1270c2b4648a" name="Default Changelist" comment="bulls-and-cows" />
+    <list default="true" id="785411cc-5f30-4778-b0d1-1270c2b4648a" name="Default Changelist" comment="bulls-and-cows">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bull-and-cow.html" beforeDir="false" afterPath="$PROJECT_DIR$/bull-and-cow.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bull-and-cow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="306">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -48,8 +51,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../javascript-exercises/object-oriented programming/cars2.html" />
-        <option value="$PROJECT_DIR$/bull-and-cow.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/bull-and-cow.html" />
       </list>
     </option>
   </component>
@@ -114,12 +117,12 @@
       <workItem from="1552318316006" duration="3775000" />
       <workItem from="1552817011057" duration="8258000" />
       <workItem from="1553189428085" duration="7481000" />
-      <workItem from="1553453712020" duration="5848000" />
+      <workItem from="1553453712020" duration="6712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30675000" />
+    <option name="totallyTimeSpent" value="31539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="706" extended-state="6" />
@@ -169,8 +172,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bull-and-cow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="306">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
