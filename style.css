@@ -5,5 +5,20 @@
     opacity: 0.8;
     text-align: left;
     color: #ffffff;
-    padding: 0 0 24px 500px;
+    padding: 0 0 24px 135px;
+}
+.result {
+    width: 552.9px;
+    height: 66px;
+    font-size: 24px;
+    color: #848484;
+    padding: 12px 0 34px 0;
+}
+.button {
+    width: 100%;
+    height: 152px;
+    background-color: #d2d2d2;
+}
+.guess-button {
+
 }
