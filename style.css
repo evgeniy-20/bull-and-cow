@@ -1,0 +1,26 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Helvetica;
+}
+.wrapper {
+    width: 1440px;
+    margin: 0px auto;
+}
+.guess {
+    width: 50px;
+    height: 5px;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    padding: 10px 0 10px 150px;
+}
+.result {
+
+}
+.button {
+
+}
+.guess-button {
+
+}
