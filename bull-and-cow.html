@@ -6,12 +6,38 @@
     <link href="style.css" rel="stylesheet">
 </head>
 <body>
-    <div class="header">
-        <div class="wrapper">
-            <div class="top">
-                Быки и коровы
-            </div>
+    <div class="wrapper">
+        <div class="top">
+            Быки и коровы
         </div>
+        <div class="rules">
+            Правила игры
+        </div>
+        <div class="numeral">
+            Компьютер задумывает четыре различные цифры из 0,1,2,...9.
+            Игрок делает ходы, чтобы узнать эти цифры и их порядок.
+            Каждый ход состоит из четырёх цифр, 0 может стоять на первом месте.
+            В ответ компьютер показывает число отгаданных цифр, стоящих на своих местах (число быков)
+            и число отгаданных цифр, стоящих не на своих местах (число коров).
+        </div>
+        <input class="guess" id="guess" type="text" />
+        <button class="guess-button" id="guess-button">Ok</button>
+        <div class id="result">Результат</div>
+        <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
+        <script>
+            var clickHandler = function () {
+                var value = $("#guess").val();
+                if (value.length != 4) {
+                    alert("mistake");
+                } else {
+                    $("#result").append(value);
+                    var numberOne = Math.floor(Math.random() * 9 + 4);
+                    alert(numberOne);
+                }
+            };
+            $("#guess-button").click(clickHandler);
+        </script>
+
     </div>
 </body>
 </html>
