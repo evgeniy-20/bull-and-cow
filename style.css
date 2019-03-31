@@ -4,29 +4,51 @@ body{
     font-family: Helvetica;
 }
 .wrapper {
-    width: 1440px;
+    width: 1400px;
     margin: 0 auto;
 }
 .top {
-    width: 100px;
+    width: 300px;
+    height: 60px;
+    font-size: 40px;
+    color: black;
+    padding: 10px 0 10px 550px;
+}
+.rules-title {
+    width: 200px;
+    height: 60px;
+    font-size: 25px;
+    color: black;
+    padding: 0 0 10px 600px;
+
+}
+.rules {
+    width: 400px;
     height: 60px;
     font-size: 20px;
     color: black;
-    padding: 10px 0 10px 100px;
+    opacity: 0.5;
+    padding: 0 0 10px 500px;
 }
-.rules {
+.example-title {
     width: 200px;
     height: 60px;
-    font-size: 14px;
+    font-size: 25px;
     color: black;
-    padding: 0 0 0 250px;
-
+    padding: 200px 0 0 600px;
 }
-.numeral {
-    width: 100px;
+.example {
+    width: 400px;
     height: 60px;
-    font-size: 14px;
+    font-size: 20px;
     color: black;
-    opacity: 0.8;
-    padding: 0 0 0 250px;
+    opacity: 0.5;
+    padding: 0 0 10px 500px;
+}
+.play {
+    width: 400px;
+    height: 60px;
+    font-size: 20px;
+    color: black;
+    padding: 20px 0 10px 500px;
 }
