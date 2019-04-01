@@ -3,6 +3,9 @@ body{
     margin: 0px;
     font-family: Helvetica;
 }
+.header {
+    display: flex;
+}
 .wrapper {
     width: 1400px;
     margin: 0 auto;
@@ -51,4 +54,7 @@ body{
     font-size: 20px;
     color: black;
     padding: 20px 0 10px 500px;
+}
+.img {
+    padding: 150px 100px 0 0;
 }
