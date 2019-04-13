@@ -5,4 +5,4 @@ numberFour.push(numberOne);
 numberFour.push(numberOne);
 numberFour.push(numberOne);
 numberFour.push(numberOne);
-console.log(numberFour);
+console.log(numberFour, numberOne);
