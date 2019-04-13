@@ -38,6 +38,7 @@
     <input class="guess" id="guess" type="text" />
     <button class="guess-button" id="guess-button">Ok</button>
     <div class id="result">Результат</div>
+    <div class id="set">Задано</div>
     <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
     <script>
         var clickHandler = function () {
@@ -53,7 +54,7 @@
                 numberFour.push(numberOne);
                 numberFour.push(numberOne);
                 numberFour.push(numberOne);
-                alert(numberFour.length);
+                console.log(numberFour.length);
             };
         };
         $("#guess-button").click(clickHandler);

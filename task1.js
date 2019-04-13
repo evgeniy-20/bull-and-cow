@@ -1,6 +1,8 @@
+var numberOne = Math.floor(Math.random() * 9);
+console.log(numberOne);
 var numberFour = [];
-numberFour.push(Math.floor(Math.random() * 9));
-numberFour.push(Math.floor(Math.random() * 9));
-numberFour.push(Math.floor(Math.random() * 9));
-numberFour.push(Math.floor(Math.random() * 9));
+numberFour.push(numberOne);
+numberFour.push(numberOne);
+numberFour.push(numberOne);
+numberFour.push(numberOne);
 console.log(numberFour.length);
