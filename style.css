@@ -56,5 +56,14 @@ body{
     padding: 20px 0 10px 500px;
 }
 .img {
-    padding: 150px 100px 0 0;
+    padding: 5px 0 10px 15px;
+}
+.guess {
+    padding: 5px 0 10px 15px;
+}
+.guess-button {
+    padding: 5px 0 10px 15px;
+}
+.result {
+    padding: 5px 0 10px 15px;
 }

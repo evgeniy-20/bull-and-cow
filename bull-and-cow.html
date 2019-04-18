@@ -35,10 +35,9 @@
             <img src="hot.png" width="300" height="300">
         </div>
     </div>
-    <input class="guess" id="guess" type="text" />
+    <input class="guess" id="guess" type="text"/>
     <button class="guess-button" id="guess-button">Ok</button>
     <div class id="result">Результат</div>
-    <div class id="set">Задано</div>
     <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
     <script>
         var clickHandler = function () {
@@ -49,16 +48,15 @@
                 $("#result").append(value);
                 var numberOne = Math.floor(Math.random() * 9);
                 alert(numberOne);
-                var numberFour = [];
-                numberFour.push(numberOne);
-                numberFour.push(numberOne);
-                numberFour.push(numberOne);
-                numberFour.push(numberOne);
-                console.log(numberFour.length);
+                var numberOne = Math.floor(Math.random() * 9);
+                var numberTwo = Math.floor(Math.random() * 9);
+                var numberThree = Math.floor(Math.random() * 9);
+                var numberFour = Math.floor(Math.random() * 9);
+                var numbers = [numberOne, numberTwo, numberThree, numberFour];
+                console.log(numbers);
             };
         };
         $("#guess-button").click(clickHandler);
     </script>
-
 </body>
 </html>
