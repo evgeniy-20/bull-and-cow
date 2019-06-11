@@ -59,11 +59,10 @@ body{
     padding: 5px 0 10px 150px;
 }
 .guess {
-    padding: 5px 0 10px 15px;
-}
-.guess-button {
-    padding: 5px 0 10px 15px;
+    width: 200px;
+    height: 50px;
+    margin: 0 0 10px 500px;
 }
 .result {
-    padding: 5px 0 10px 15px;
+    margin: 0 0 10px 500px;
 }
