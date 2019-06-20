@@ -32,7 +32,8 @@
             </div>
         </div>
         <div class="img">
-            <img src="hot.png" width="300" height="300">
+            <img src="cow.png" alt="корова">
+            <img src="bull.png" alt="бык">
         </div>
     </div>
     <input class="guess" id="guess" type="text"/>
@@ -51,7 +52,8 @@
                 var numberThree = Math.floor(Math.random() * 9);
                 var numberFour = Math.floor(Math.random() * 9);
                 var numbers = [numberOne, numberTwo, numberThree, numberFour];
-                alert(numbers);
+                var number = numbers.join();
+                alert(number);
             }
             function result(a, b) {
                 var countBulls = 0;
