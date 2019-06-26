@@ -56,13 +56,15 @@ body{
     padding: 20px 0 10px 500px;
 }
 .img {
-    padding: 5px 0 10px 150px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0 0 131px;
 }
-.cow {
+.cows {
     width: 300px;
     height: 300px;
 }
-.bull {
+.bulls {
     width: 300px;
     height: 300px;
 }
