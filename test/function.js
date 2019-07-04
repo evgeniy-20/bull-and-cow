@@ -1,3 +1,5 @@
+var birthYear = 1997;
+var futureYear = 2069;
 function age(x, y) {
     age1 = x - y;
     age2 = (x - y) - 1;
