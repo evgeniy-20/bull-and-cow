@@ -22,3 +22,19 @@ if (i % 2 === 0) {
 } else {
     console.log(i + ' is odd.');
 }
+var presidentUS = ["George Washington", "John Adams", "Thomas Jefferson", "James Madison", "James Monroe", "John Quincy Adams", "Andrew Jackson"];
+
+for(i=0; i<= presidentUS.length-1; i++) {
+    if( i == 0 ){
+        console.log("My "+ (i+1) +"st" + " choice is " + presidentUS[i]);
+    }
+    else if (i == 1) {
+        console.log("My "+ (i+1) +"nd" + " choice is " + presidentUS[i]);
+    }
+    else if (i == 2) {
+        console.log("My "+ (i+1) +"rd" + " choice is " + presidentUS[i]);
+    }
+    else {
+        console.log("My "+ (i+1) +"th" + " choice is " + presidentUS[i]);
+    }
+}
