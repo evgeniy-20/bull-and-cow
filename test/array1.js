@@ -1,5 +1,6 @@
-var colors = ["Yellow","Green","Blue","Brown",
-    "White","Red","Orange","Pink"];
-for (var i = 0; i <= colors.length; i++) {
-    console.log("My " + (i + 1) + " choice " + colors[i]);
+function tellFortune(children,partner,city,Jobtitle) {
+    console.log("You will be a " + Jobtitle + " in " + city + " and" + " married to " + partner + " with " + children + " kids.");
 }
+tellFortune("toy", "Urkraina", "car");
+tellFortune( "London", "Korea", "Fortune teller");
+tellFortune( "London", "Korea", "Fortune teller");
