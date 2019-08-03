@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="785411cc-5f30-4778-b0d1-1270c2b4648a" name="Default Changelist" comment="bulls-and-cows">
-      <change afterPath="$PROJECT_DIR$/cat/myList.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/myList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bull-and-cow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bull-and-cow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/myList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/myList.js" beforeDir="false" afterPath="$PROJECT_DIR$/cat/myList.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -65,7 +65,10 @@
     <configuration name="array1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="array1.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
-    <configuration name="cicle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="cicle.js" working-dir="$PROJECT_DIR$/test">
+    <configuration name="bull-and-cow.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="bull-and-cow.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="myList.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="myList.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="myList.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="myList.js" working-dir="$PROJECT_DIR$/cat">
@@ -74,16 +77,13 @@
     <configuration name="task5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="task5.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
-    <configuration name="temperature.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="temperature.js" working-dir="$PROJECT_DIR$/test">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.myList.js" />
+        <item itemvalue="Node.js.myList.js (1)" />
+        <item itemvalue="Node.js.bull-and-cow.js" />
         <item itemvalue="Node.js.array1.js" />
         <item itemvalue="Node.js.task5.js" />
-        <item itemvalue="Node.js.cicle.js" />
-        <item itemvalue="Node.js.temperature.js" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,7 @@
       <workItem from="1562831477035" duration="71000" />
       <workItem from="1562858773057" duration="121000" />
       <workItem from="1562866347607" duration="131000" />
-      <workItem from="1564672461529" duration="3592000" />
+      <workItem from="1564672461529" duration="9681000" />
     </task>
     <servers />
   </component>
@@ -158,16 +158,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bulls-and-cows" />
     <option name="LAST_COMMIT_MESSAGE" value="bulls-and-cows" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/bull-and-cow.js</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
