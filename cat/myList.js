@@ -5,6 +5,7 @@ for (var i = 0; i < toDoList.length; i++) {
 var headingElement = document.getElementById("guess-button");
 console.log(headingElement.innerHTML);
 function clickHandler() {
-    prompt("Please enter new task name");
+   var get =  prompt("Please enter new task name");
+   $(".list").append("<li>" + get + "</li>");
 }
 $("button").click(clickHandler);

@@ -29,11 +29,4 @@ var clickHandler = function () {
     alert(result("1234", "1582"));
 };
 $("#guess-button").click(clickHandler);
-var toDoList = ["learn english"," to do programming"," feed chicks"," wrest grass"];
-console.log(toDoList.join());
-var list = [];
-list.push($('<li>', {text: blocks[i] }));
-$('ul').append(list);
-$( ".list" ).append("breakfast");
-$( ".array" ).append(toDoList);
 
