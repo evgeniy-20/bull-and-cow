@@ -9,3 +9,9 @@ function clickHandler() {
    $(".list").append("<li>" + get + "</li>");
 }
 $("button").click(clickHandler);
+var heading = document.getElementById("cleaning-button");
+console.log(heading.innerHTML);
+function clickHandler1() {
+
+}
+$("button1").click(clickHandler1());
