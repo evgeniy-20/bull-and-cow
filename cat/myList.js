@@ -8,10 +8,10 @@ function clickHandler() {
    var get =  prompt("Please enter new task name");
    $(".list").append("<li>" + get + "</li>");
 }
-$("button").click(clickHandler);
+$("#guess-button").click(clickHandler);
 var heading = document.getElementById("cleaning-button");
 console.log(heading.innerHTML);
-function clickHandler1() {
-
+function onCleanButtonClick() {
+    $(".list").remove();
 }
-$("button1").click(clickHandler1());
+$("#cleaning-button").click(onCleanButtonClick);
