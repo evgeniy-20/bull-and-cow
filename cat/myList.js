@@ -12,6 +12,6 @@ $("#guess-button").click(clickHandler);
 var heading = document.getElementById("cleaning-button");
 console.log(heading.innerHTML);
 function onCleanButtonClick() {
-    $(".list").remove();
+    $(".list").empty();
 }
 $("#cleaning-button").click(onCleanButtonClick);
