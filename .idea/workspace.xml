@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="785411cc-5f30-4778-b0d1-1270c2b4648a" name="Default Changelist" comment="bulls-and-cows">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mission.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bull-and-cow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bull.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cat/myList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bull-and-cow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/array1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/arry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/cicle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/circle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/function.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/function1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/task1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/task2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/task5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/temperature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +143,7 @@
       <workItem from="1565438419945" duration="1914000" />
       <workItem from="1565495421794" duration="10215000" />
       <workItem from="1565946877934" duration="9099000" />
-      <workItem from="1566272749135" duration="2307000" />
+      <workItem from="1566272749135" duration="4712000" />
     </task>
     <servers />
   </component>
