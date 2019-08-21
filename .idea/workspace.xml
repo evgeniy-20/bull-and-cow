@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="785411cc-5f30-4778-b0d1-1270c2b4648a" name="Default Changelist" comment="bulls-and-cows">
-      <change afterPath="$PROJECT_DIR$/mission.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lounge/lounge.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.myList.js">
+  <component name="RunManager" selected="JavaScript Debug.lounge.html">
+    <configuration name="lounge.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-and-css/lounge/lounge.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="array1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="array1.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
@@ -73,16 +75,13 @@
     <configuration name="myList.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="myList.js" working-dir="$PROJECT_DIR$/cat">
       <method v="2" />
     </configuration>
-    <configuration name="task5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="task5.js" working-dir="$PROJECT_DIR$/test">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.lounge.html" />
         <item itemvalue="Node.js.myList.js" />
         <item itemvalue="Node.js.myList.js (1)" />
         <item itemvalue="Node.js.bull-and-cow.js" />
         <item itemvalue="Node.js.array1.js" />
-        <item itemvalue="Node.js.task5.js" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +142,8 @@
       <workItem from="1565438419945" duration="1914000" />
       <workItem from="1565495421794" duration="10215000" />
       <workItem from="1565946877934" duration="9099000" />
-      <workItem from="1566272749135" duration="4712000" />
+      <workItem from="1566272749135" duration="6118000" />
+      <workItem from="1566365942079" duration="5246000" />
     </task>
     <servers />
   </component>
