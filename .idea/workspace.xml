@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="785411cc-5f30-4778-b0d1-1270c2b4648a" name="Default Changelist" comment="bulls-and-cows">
-      <change afterPath="$PROJECT_DIR$/lounge/lounge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/journal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/mission.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/mypod/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jak.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lounge/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/lounge/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Evgeniy\Desktop\projects\html-and-css\chapter5\mypod" />
       <recent name="C:\Users\Evgeniy\Desktop\projects\bull-and-cow\cat" />
       <recent name="C:\Users\Evgeniy\Desktop\projects\bull-and-cow\test" />
     </key>
@@ -143,7 +151,11 @@
       <workItem from="1565495421794" duration="10215000" />
       <workItem from="1565946877934" duration="9099000" />
       <workItem from="1566272749135" duration="6118000" />
-      <workItem from="1566365942079" duration="5246000" />
+      <workItem from="1566365942079" duration="6483000" />
+      <workItem from="1566466008229" duration="7406000" />
+      <workItem from="1566615291138" duration="3949000" />
+      <workItem from="1566887980151" duration="6092000" />
+      <workItem from="1567147175343" duration="5227000" />
     </task>
     <servers />
   </component>
