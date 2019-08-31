@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="785411cc-5f30-4778-b0d1-1270c2b4648a" name="Default Changelist" comment="bulls-and-cows">
-      <change afterPath="$PROJECT_DIR$/chapter3/journal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/mission.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/mypod/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jak.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lounge/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/lounge/lounge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/mypod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/mypod/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +148,8 @@
       <workItem from="1566466008229" duration="7406000" />
       <workItem from="1566615291138" duration="3949000" />
       <workItem from="1566887980151" duration="6092000" />
-      <workItem from="1567147175343" duration="5227000" />
+      <workItem from="1567147175343" duration="6087000" />
+      <workItem from="1567223558950" duration="2915000" />
     </task>
     <servers />
   </component>
